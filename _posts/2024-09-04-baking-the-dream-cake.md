@@ -9,8 +9,6 @@ description: "This is the recipe for 'Drömtårta' translates to dream cake."
 featured: true
 ---
 
-## Dream Cake (Drömtårta)
-
 **Drömtårta**, also known as **"dream cake"** or **Swedish roll cake**, is a classic Swedish dessert. It is a type of rolled sponge cake with a rich buttercream filling that is flavored with vanilla. The sponge itself is made with potato flour (starch), sugar, eggs and cocoa powder. Resulting in a light, soft and somewhat chewy texture.
 
 ### Cake Ingredients

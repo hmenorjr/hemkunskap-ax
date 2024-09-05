@@ -30,3 +30,6 @@ featured: true
 4. Whisk together the butter, powdered sugar, and vanilla sugar.  
 5. Mix in the egg yolk.  
 6. Spread the filling over the cake base once it has cooled, then roll it up.
+
+### Credits
+Image from https://livsnjutarnasgourmetkok.nu/wp-content/uploads/2016/03/IMG_5944.jpg

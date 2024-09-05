@@ -28,6 +28,7 @@ featured: true
 1. Whisk the eggs and sugar until fluffy.  
 2. Add the remaining ingredients.  
 3. Spread the batter on a baking sheet lined with parchment paper and bake at 250°C (482°F) for about 5 minutes.  
-4. Whisk together the butter, powdered sugar, and vanilla sugar.  
+4. Whisk together the butter, powdered sugar and vanilla sugar.  
 5. Mix in the egg yolk.  
-6. Spread the filling over the cake base once it has cooled, then roll it up.
+6. Spread the filling over the cake base once it has cooled.
+7. Roll it up.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Baking the DREAM CAKE"
-author: john
+author: ja
 categories: [ Baking ]
 tags: [cake]
 image: assets/images/dromtarta.webp

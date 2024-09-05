@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Let's Cook Chicken Piccata"
-author: john
+author: ja
 categories: [ Cooking ]
 tags: [ chicken, italian ]
 image: assets/images/chicken-piccata-rotated.webp

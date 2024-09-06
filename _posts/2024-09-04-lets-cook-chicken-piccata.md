@@ -4,7 +4,7 @@ title:  "Let's Cook Chicken Piccata"
 author: ja
 categories: [ Cooking ]
 tags: [ chicken, italian ]
-image: assets/images/chicken-piccata-rotated.webp
+image: assets/images/posts/chicken-piccata.webp
 description: "Recipe and steps to cook chicken piccata."
 featured: true
 ---

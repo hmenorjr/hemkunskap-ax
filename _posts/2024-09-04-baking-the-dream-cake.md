@@ -4,7 +4,7 @@ title:  "Baking the DREAM CAKE"
 author: ja
 categories: [ Baking ]
 tags: [cake]
-image: assets/images/dromtarta.webp
+image: assets/images/posts/dromtarta.webp
 description: "This is the recipe for 'Drömtårta' translates to dream cake."
 featured: true
 ---

@@ -12,6 +12,7 @@ featured: true
 **Kyckling Piccata** is the Swedish take on the Italian dish "Chicken Piccata." This dish typically consists of pan-fried chicken cutlets served with a tangy and flavorful lemon-butter sauce, capers, and sometimes white wine. The Swedish version might have slight variations but generally follows the same foundational principles of Italian Piccata.
 
 We divide this into two parts.
+
 ---
 ## Tomato Sauce
 ### Ingredients

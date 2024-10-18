@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Hemkunskap AX
+title: About
 permalink: /about
 ---
 

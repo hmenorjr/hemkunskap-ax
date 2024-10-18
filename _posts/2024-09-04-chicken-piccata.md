@@ -6,7 +6,6 @@ categories: [ Cooking ]
 tags: [ chicken, italian, english ]
 image: assets/images/posts/chicken-piccata.webp
 description: "Piccata is an Italian dish of thin pan-fried flour-dredged meat in a sauce of lemon juice, butter, parsley, and often capers. In Italian cuisine piccata is prepared using veal, whereas in Italian-American cuisine, chicken is more commonly used."
-featured: true
 ---
 
 Piccata is an Italian dish of thin pan-fried flour-dredged meat in a sauce of lemon juice, butter, parsley, and often capers. In Italian cuisine piccata is prepared using veal, whereas in Italian-American cuisine, chicken is more commonly used.

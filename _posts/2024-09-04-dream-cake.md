@@ -6,7 +6,6 @@ categories: [ Baking ]
 tags: [cake]
 image: assets/images/posts/dromtarta.webp
 description: "a classic Swedish dessert. It is a type of rolled sponge cake with a rich buttercream filling that is flavored with vanilla. The sponge itself is made with potato flour (starch), sugar, eggs and cocoa powder. Resulting in a light, soft and somewhat chewy texture."
-featured: true
 ---
 
 A classic Swedish dessert. It is a type of rolled sponge cake with a rich buttercream filling that is flavored with vanilla. The sponge itself is made with potato flour (starch), sugar, eggs and cocoa powder. Resulting in a light, soft and somewhat chewy texture.

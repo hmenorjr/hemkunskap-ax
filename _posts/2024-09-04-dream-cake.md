@@ -1,33 +1,32 @@
 ---
 layout: post
-title:  "Dream Cake"
+title:  "Drömtårta"
 author: ja
 categories: [ Baking ]
-tags: [cake]
+tags: [ swedish, dessert, cake ]
 image: assets/images/posts/dromtarta.webp
-description: "a classic Swedish dessert. It is a type of rolled sponge cake with a rich buttercream filling that is flavored with vanilla. The sponge itself is made with potato flour (starch), sugar, eggs and cocoa powder. Resulting in a light, soft and somewhat chewy texture."
+description: "Drömtårta är en klassisk svensk dessert, också känd som “Drömrulltårta”. Det är en luftig och lätt rulltårta fylld med en krämig smörkräm. Namnet betyder “drömkaka” och den är populär att servera under fika i Sverige."
 ---
 
-A classic Swedish dessert. It is a type of rolled sponge cake with a rich buttercream filling that is flavored with vanilla. The sponge itself is made with potato flour (starch), sugar, eggs and cocoa powder. Resulting in a light, soft and somewhat chewy texture.
+Drömtårta är en klassisk svensk dessert, också känd som “Drömrulltårta”. Det är en luftig och lätt rulltårta fylld med en krämig smörkräm. Namnet betyder “drömkaka” och den är populär att servera under fika i Sverige.
 
-### Cake Ingredients
-- 3 eggs  
-- 1.5 dl sugar  
-- 1 tsp baking powder  
-- 2 tbsp cocoa powder  
-- 0.75 dl potato flour  
+### Tårta Ingredienser
+- 3 ägg
+- 1.5 dl socker
+- 1 tsk bakpulver
+- 2 msk kakao
+- 0.75 dl potatismjöl
 
-### Filling Ingredients
-- 150 g butter  
-- 2 dl powdered sugar  
-- 2 tsp vanilla sugar  
-- 1 egg yolk  
+### Fyllning Ingredienser
+- 150 gr smor
+- 2 dl florsocker
+- 2 tsk vaniljsocker
+- 1 äggula  
 
-### Instructions
-1. Whisk the eggs and sugar until fluffy.  
-2. Add the remaining ingredients.  
-3. Spread the batter on a baking sheet lined with parchment paper and bake at 250°C (482°F) for about 5 minutes.  
-4. Whisk together the butter, powdered sugar and vanilla sugar.  
-5. Mix in the egg yolk.  
-6. Spread the filling over the cake base once it has cooled.
-7. Roll it up.
+### Instruktioner
+1. Vispa ägg och socker pösigt.
+1. Tillsätt dom övriga ingredienserna.
+1. Bred ut smeten pả ett bakplaätspapper och grädda i 250 grader ca 5 min.
+1. Vispa samman smör, florsocker,och vaniljsocker.
+1. Blanda ner äggulan.
+1. Bred pả fyllningen när kakbottnen svalnat, rulla ihop.

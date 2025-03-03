@@ -5,11 +5,11 @@ author: ja
 categories: [ Baking ]
 tags: [ swedish, svenska ]
 image: assets/images/posts/swissroll.webp
-description: "Rulltårta, also known as Swedish Roll Cake or Swiss Cake, is a beloved Scandinavian dessert. It’s a classic cake that consists of layers of golden sponge cake, filled with a variety of sweet treats such as strawberry filling, pastry cream, lemon curd, or even Nutella."
+description: "Rulltårta, även känd som Swedish Roll Cake eller Swiss Cake, är en älskad skandinavisk dessert. Det är en klassisk tårta som består av lager av gyllene sockerkaka, fylld med en mängd olika sötsaker som jordgubbsfyllning, konditorivaror, lemon curd eller till och med Nutella."
 featured: true
 ---
 
-Rulltårta, also known as Swedish Roll Cake or Swiss Cake, is a beloved Scandinavian dessert. It’s a classic cake that consists of layers of golden sponge cake, filled with a variety of sweet treats such as strawberry filling, pastry cream, lemon curd, or even Nutella.
+Rulltårta, även känd som Swedish Roll Cake eller Swiss Cake, är en älskad skandinavisk dessert. Det är en klassisk tårta som består av lager av gyllene sockerkaka, fylld med en mängd olika sötsaker som jordgubbsfyllning, konditorivaror, lemon curd eller till och med Nutella.
 
 ## Ingredienser
 - 3 ägg

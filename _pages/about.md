@@ -13,7 +13,7 @@ permalink: /about
         <div class="sticky-top sticky-top-80">
             <h5>Donate</h5>
             <p>Thank you for your support! Your donation helps us to maintain and improve <a target="_blank" href="https://hmenorjr.github.io/hemkuskap-ax">Hemkuskap-AX <i class="fab fa-kitchen-set"></i></a>.</p>
-            <a target="_blank" href="https://buymeacoffee.com/hmenorjr" class="btn btn-danger">Buy me a coffee</a>
+            <a target="_blank" href="https://buymeacoffee.com/hmenorjr" class="btn btn-warning">Buy me a coffee</a>
         </div>
     </div>
 </div>

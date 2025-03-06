@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Rulltårta"
-author: ja
+author: herman
 categories: [ Baking ]
 tags: [ swedish, svenska ]
 image: assets/images/posts/rulltarta.webp

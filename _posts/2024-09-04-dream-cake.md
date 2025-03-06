@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Drömtårta"
-author: ja
+author: herman
 categories: [ Baking ]
 tags: [ swedish, dessert, cake ]
 image: assets/images/posts/dromtarta.webp

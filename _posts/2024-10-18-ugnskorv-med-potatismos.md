@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Ugnskorv med Potatismos"
-author: ja
+author: herman
 categories: [ Cooking ]
 tags: [ swedish, svenska, potatis, korv ]
 image: assets/images/posts/ugnskorv-med-potatismos.webp

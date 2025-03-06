@@ -16,7 +16,7 @@ authors:
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: name@email.com
     description: "The student. The one who got the recipe from the school's subject called Hemkunskap. Which translates to home economics."
-  Herman:
+  herman:
     name: Herman
     display_name: Herman    
     avatar: 'assets/images/avatar.png'
@@ -24,7 +24,7 @@ authors:
     email: overbid.beasts-0a@icloud.com
     web: https://hmenorjr.github.io
     twitter: https://twitter.com/hmenorjr
-    description: "The dad. A former Full-stack Web Developer turned Back-end Developer and now a Software Engineer for DevOps. The one who built this website."
+    description: "A former Full-stack Web Developer turned Back-end Developer and now a Software Engineer for DevOps. The one who built and maintains this website."
 
 # Plugins
 plugins:

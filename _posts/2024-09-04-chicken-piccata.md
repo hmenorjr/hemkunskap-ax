@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Chicken Piccata"
-author: ja
+author: herman
 categories: [ Cooking ]
 tags: [ chicken, italian, english ]
 image: assets/images/posts/chicken-piccata.webp

@@ -11,9 +11,9 @@ permalink: /about
     </div>
     <div class="col-md-4">
         <div class="sticky-top sticky-top-80">
-            <h5>Buy me a coffee</h5>
-            <p>Thank you for your support! Your donation helps us to maintain and improve <a target="_blank" href="https://hmenorjr.github.io/hemkuskap-ax">Hemkuskap-AX <i class="fab fa-kitchen-set fa-beat"></i></a>.</p>
-            <a target="_blank" href="https://wise.com/pay/me/hermanm60" class="btn btn-danger">Donate</a>
+            <h5>Donate</h5>
+            <p>Thank you for your support! Your donation helps us to maintain and improve <a target="_blank" href="https://hmenorjr.github.io/hemkuskap-ax">Hemkuskap-AX <i class="fab fa-kitchen-set"></i></a>.</p>
+            <a target="_blank" href="https://buymeacoffee.com/hmenorjr" class="btn btn-danger">Buy me a coffee</a>
         </div>
     </div>
 </div>

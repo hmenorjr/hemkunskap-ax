@@ -4,7 +4,7 @@ title:  "Rulltårta"
 author: ja
 categories: [ Baking ]
 tags: [ swedish, svenska ]
-image: assets/images/posts/swissroll.webp
+image: assets/images/posts/rulltarta.webp
 description: "Rulltårta, även känd som Swedish Roll Cake eller Swiss Cake, är en älskad skandinavisk dessert. Det är en klassisk tårta som består av lager av gyllene sockerkaka, fylld med en mängd olika sötsaker som jordgubbsfyllning, konditorivaror, lemon curd eller till och med Nutella."
 featured: true
 ---
